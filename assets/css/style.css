@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.resumen {
+    margin-bottom: 20px;
+}
+
+.table-dark th, .table-dark td {
+    color: white;
+}
+
+.delete-button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    color: red;
+    font-size: 18px;
+}
